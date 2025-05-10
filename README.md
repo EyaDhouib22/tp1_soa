@@ -37,7 +37,7 @@ Le script `tp1_request.js` implémente la récupération des données météo po
 node tp1_request.js
 
 Résultat Attendu  :
-![alt text](./screenshots/TP1.1.png)
+![alt text](tp1_soa/screenshots/TP1.1.png)
 
 ### Étape 6.1: Refaire avec fetch
 Le script tp1_fetch.js réalise la même tâche en utilisant l'API fetch
