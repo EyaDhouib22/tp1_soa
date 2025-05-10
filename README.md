@@ -36,16 +36,13 @@ Le script `tp1_request.js` implémente la récupération des données météo po
 **Exécution :**
 node tp1_request.js
 
-Résultat Attendu  :
-![alt text](tp1_soa/screenshots/TP1.1.png)
+
 
 ### Étape 6.1: Refaire avec fetch
 Le script tp1_fetch.js réalise la même tâche en utilisant l'API fetch
 Exécution :
 node tp1_fetch.js
 
-Résultat Attendu  :
-![alt text](./screenshots/TP1.2.png)
 
 ### Étape 6.2: Refaire avec axios
 Le script tp1_axios.js réalise la même tâche en utilisant la bibliothèque axios
@@ -53,7 +50,7 @@ Exécution :
 node tp1_axios.js
 
 Résultat Attendu:
-![TP1.3t](./screenshots/TP1.3.png)
+(./screenshots/TP1.3.png)
 
 ### Étape 7: Tester d'autres APIs RESTful (Bonus)
 **Open Library API**
