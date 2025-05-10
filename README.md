@@ -49,29 +49,18 @@ Le script tp1_axios.js réalise la même tâche en utilisant la bibliothèque ax
 Exécution :
 node tp1_axios.js
 
-Résultat Attendu:
-(./screenshots/TP1.3.png)
-
 ### Étape 7: Tester d'autres APIs RESTful (Bonus)
 **Open Library API**
 Exécution :
 node bonus_apis/openlibrary_example.js
 
-Résultat Attendu  :
-![alt text](./screenshots/TP1.4.png)
-
 **NASA API (APOD)** 
 Exécution :
 node bonus_apis/nasa_example.js
 
-Résultat Attendu :
-![alt text](./screenshots/TP1.5.png)
-
 **RandomUser API**
 Exécution :
 node bonus_apis/randomuser_example.js
-Résultat Attendu  :
-![alt text](./screenshots/TP1.6.png)
 
 # Conclusion
 Ce TP a permis de mettre en pratique la consommation d'APIs RESTful en utilisant différentes approches en Node.js (request, fetch, axios). Il a également couvert la récupération de données spécifiques, la gestion des paramètres d'API (comme les unités et la langue), et l'analyse des réponses JSON. Les exemples bonus ont étendu cette pratique à d'autres APIs publiques.
