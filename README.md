@@ -24,28 +24,6 @@
 *   Un terminal ou une invite de commandes.
 *   Git pour la gestion de version.
 
-## Structure du Dépôt
-tp1-restful-apis/
-├── .env # Fichier pour la clé API (ignoré par Git)
-├── .gitignore # Fichiers et dossiers à ignorer par Git
-├── README.md # Ce fichier
-├── package.json
-├── package-lock.json
-├── tp1_request.js # Solution avec la librairie 'request'
-├── tp1_fetch.js # Solution avec 'fetch'
-├── tp1_axios.js # Solution avec 'axios'
-├── bonus_apis/ # Dossier pour les tests d'APIs bonus
-│ ├── openlibrary_example.js
-│ ├── nasa_example.js
-│ └── randomuser_example.js
-└── screenshots/ # Dossier pour stocker les captures d'écran
-├── output_request.png
-├── output_fetch.png
-├── output_axios.png
-├── output_openlibrary.png
-├── output_nasa.png
-└── output_randomuser.png
-
 ## Étapes de Réalisation
 
 ### Étape 0: Configuration du Projet
