@@ -53,7 +53,7 @@ Exécution :
 node tp1_axios.js
 
 Résultat Attendu:
-![TP1 Screenshot](./screenshots/TP1.3.png)
+![TP1.3t](./screenshots/TP1.3.png)
 
 ### Étape 7: Tester d'autres APIs RESTful (Bonus)
 **Open Library API**
